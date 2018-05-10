@@ -17,10 +17,10 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void iniis() {
-        
+
     }
 
     private void intn() {
-        
+        Log.d("dasdsa","asdasd");
     }
 }

@@ -13,6 +13,11 @@ public class MainActivity extends AppCompatActivity {
 
         Log.e("sdsad","sdasdads");
         intn();
+        iniis();
+    }
+
+    private void iniis() {
+        
     }
 
     private void intn() {

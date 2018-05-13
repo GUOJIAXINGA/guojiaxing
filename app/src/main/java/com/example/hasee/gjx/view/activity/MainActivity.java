@@ -1,8 +1,10 @@
-package com.example.hasee.gjx;
+package com.example.hasee.gjx.view.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
+
+import com.example.hasee.gjx.R;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -11,16 +13,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Log.e("sdsad","sdasdads");
-        intn();
-        iniis();
-    }
 
-    private void iniis() {
-
-    }
-
-    private void intn() {
-        Log.d("dasdsa","asdasd");
     }
 }
